@@ -1,6 +1,2 @@
 chanchito feliz
-<<<<<<< HEAD
 Chanchito jajaja
-=======
-Chanchito feo yo soy guapo
->>>>>>> ramab
