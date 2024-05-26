@@ -1,2 +1,6 @@
 chanchito feliz
+<<<<<<< HEAD
 Chanchito hola
+=======
+Chanchito feo yo s
+>>>>>>> ramab
